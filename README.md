@@ -36,7 +36,7 @@ Download or copy `app.py` and `requirements.txt` files into a folder.Then instal
 ``` 
 ### 3️⃣ Set Up API Keys
 
-- Create .env file in the same directory as `app.py`.
+- Create `.env file` in the same directory as `app.py`.
 - Add your API key inside the .env file like this:
 ```bash 
   OPENAI_API_KEY = "your personel apı key"
